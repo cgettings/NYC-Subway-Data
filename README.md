@@ -1,4 +1,4 @@
-# NYC-Subway-Realtime-Data
+# NYC-Subway-Data
 
 Examples of data from the subway realtime archive, and code used to extract it and put it into a tidy format.
 
